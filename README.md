@@ -3,9 +3,9 @@ Brain Tumor detection using CNN
 
 
 # Project Goals
-The objective of our project, CerebroVision, is to leverage Convolutional Neural Networks (CNN), a powerful form of deep learning, to improve the accuracy of early brain tumor detection and diagnosis. By using advanced algorithms to analyze MRI scans, our system aims to enhance the clarity and speed of diagnosis, potentially saving lives through earlier intervention.
+The objective of this project, CerebroVision, is to leverage Convolutional Neural Networks (CNN), a powerful form of deep learning, to improve the accuracy of early brain tumor detection and diagnosis. By using advanced algorithms to analyze MRI scans, this system aims to enhance the clarity and speed of diagnosis, potentially saving lives through earlier intervention.
 
-Some of the specific goals that we have focused on throughout our project implementation are as given below -
+Some of the specific goals that we have focused on throughout this project implementation are as given below -
 
 High Diagnostic Accuracy: Achieve a high level of accuracy in detecting the presence of brain tumors and classifying their types. To determine the most effective model based on ROC curves and AUC metrics.
 
